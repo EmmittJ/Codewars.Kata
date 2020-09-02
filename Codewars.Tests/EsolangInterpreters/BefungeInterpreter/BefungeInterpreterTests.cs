@@ -1,6 +1,6 @@
 ﻿using NUnit.Framework;
 
-namespace Codewars.BefungeInterpreter
+namespace Codewars.EsolangInterpreters.BefungeInterpreter
 {
     public class BefungeInterpreterTests
     {

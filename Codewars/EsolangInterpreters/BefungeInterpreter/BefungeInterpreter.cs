@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
 
-namespace Codewars.BefungeInterpreter
+namespace Codewars.EsolangInterpreters.BefungeInterpreter
 {
     public class BefungeInterpreter
     {
